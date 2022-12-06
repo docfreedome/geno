@@ -1,0 +1,18 @@
+To use TCP with dialup modems, HAM paired modems;esp32 rs232 moden etc...
+To find or make DOS emulation for various devices
+And use old software for our communication terminals.
+We will use electronic Bulletin Board Software on various devices, including but nit limited to:Raspberyy Pi; espressif, anything we can get to work...
+Running A freedos or DOS emulator we will mesh a psuedo fidonet or other BBS sync programs.
+We are not interested in linking to the internet, but are very interested into linking to various other private and public networks. 
+We will make access points via modifified piratebox project possibly as well as use of ESP32/8266 mesh capabilities. 
+
+We will enjoy basic, pascal and other languages of our choosing.
+TRS-80 emulation DOS or Trs-DOS and BASIC has very simple BASIC language
+Tele-Terminal and BBS software.
+
+Current devices in development on this project;
+Raspberry Pi 3a+ Dosbian with dialup modem (to run BBS); Raspberry Pi 4B Dosbox; esp32 various; x86 i7 win10 runnung Dosbox-X
+
+.Sharing ideas:
+Freefarrier@yahoo.com
+
